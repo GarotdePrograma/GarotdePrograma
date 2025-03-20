@@ -7,8 +7,8 @@
 ✔️ Back-end (C, C#)
 ✔️ Um pouco de Front-end (HTML,CSS)
 ## 📌 Status  
-Desempregado
-Estudante
+Desempregado<br>
+Estudante<br>
 Menos que humano
 
 
