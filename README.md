@@ -1,4 +1,4 @@
-# 🚀 Bem-vindo ao meu perfil!  
+# Meu perfil 🖥️ 🔥 
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
@@ -20,23 +20,9 @@
             to { transform: translateY(0); opacity: 1; }
         }
     </style>
-    
-    <text x="50" y="50" class="letter" style="animation-delay: 0.2s;">N</text>
-    <text x="100" y="50" class="letter" style="animation-delay: 0.4s;">O</text>
-    <text x="150" y="50" class="letter" style="animation-delay: 0.6s;">M</text>
-    <text x="200" y="50" class="letter" style="animation-delay: 0.8s;">E</text>
-    <text x="250" y="50" class="letter" style="animation-delay: 1s;">:</text>
-    <text x="300" y="50" class="letter" style="animation-delay: 1.2s;">V</text>
-    <text x="350" y="50" class="letter" style="animation-delay: 1.4s;">I</text>
-    <text x="400" y="50" class="letter" style="animation-delay: 1.6s;">T</text>
-    <text x="450" y="50" class="letter" style="animation-delay: 1.8s;">O</text>
-    <text x="500" y="50" class="letter" style="animation-delay: 2s;">R</text>
-</svg>
-
----
 
 ## 📌 Status  
 🔥 **Não empregado**  
 
 ```diff
-- Sempre buscando novas oportunidades! 🚀
+
