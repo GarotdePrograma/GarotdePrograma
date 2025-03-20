@@ -22,13 +22,4 @@
             50% { fill: #00ffff; }
             100% { fill: #ff00ff; }
         }
-        text {
-            font-family: 'Arial', sans-serif;
-            font-size: 50px;
-            font-weight: bold;
-            text-anchor: middle;
-            animation: glow 2s infinite alternate;
-        }
-    </style>
-    <text x="300" y="80">Deixe-me ver Animes</text>
-</svg>
+      
