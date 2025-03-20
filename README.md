@@ -15,5 +15,6 @@
 ## 📌 Status  
 🔥 **Não empregado**  
 
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario-aqui&show_icons=true&theme=radical"> </div>
 ```diff
 
