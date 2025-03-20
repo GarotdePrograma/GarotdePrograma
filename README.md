@@ -6,11 +6,10 @@
 ✔️ Banco de Dados (SQL)<br>
 ✔️ Back-end (C, C#)<br>
 ✔️ Um pouco de Front-end (HTML,CSS)<br><br>
-
-📌 Status  
-Desempregado<br>
-Estudante<br>
-Menos que humano
+  
+ 💩 Desempregado<br>
+ 👍 Estudante do Senai<br>
+ 🍥 Menos que humano
 
 
 <div align="center">
