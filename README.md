@@ -17,9 +17,4 @@
 </div>
 <svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
     <style>
-        @keyframes glow {
-            0% { fill: #ff00ff; }
-            50% { fill: #00ffff; }
-            100% { fill: #ff00ff; }
-        }
-      
+     
