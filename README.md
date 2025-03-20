@@ -9,3 +9,7 @@ Descrição breve do projeto, explicando sua funcionalidade e propósito.
 - [✔️] Tecnologia 3  
 
 ## 📦 Instalação
+
+# Naruto Animation! 🍥🔥
+
+![Naruto Running](https://media.giphy.com/media/xT9IgEYX2fsWQuDpFC/giphy.gif)
