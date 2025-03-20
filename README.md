@@ -1,6 +1,8 @@
 # Nome do Projeto
 
-Descrição breve do projeto, explicando sua funcionalidade e propósito.
+# Animação de Letras Caindo 🚀
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/animacao.svg" width="500px">
 
 ## 🚀 Tecnologias
 
