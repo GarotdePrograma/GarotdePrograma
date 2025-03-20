@@ -1,8 +1,14 @@
-# Nome do Projeto
+# 🚀 Bem-vindo ao meu perfil!  
 
-# Animação de Letras Caindo 🚀
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px">
+</div>
 
-<svg width="500" height="100" viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+---
+
+## 🎭 Sobre mim  
+
+<svg width="100%" height="150" viewBox="0 0 1000 150" xmlns="http://www.w3.org/2000/svg">
     <style>
         .letter {
             font: bold 40px monospace;
@@ -15,24 +21,22 @@
         }
     </style>
     
-    <text x="10" y="50" class="letter" style="animation-delay: 0.2s;">S</text>
-    <text x="50" y="50" class="letter" style="animation-delay: 0.4s;">E</text>
-    <text x="90" y="50" class="letter" style="animation-delay: 0.6s;">U</text>
-    <text x="150" y="50" class="letter" style="animation-delay: 0.8s;">N</text>
-    <text x="190" y="50" class="letter" style="animation-delay: 1s;">O</text>
-    <text x="230" y="50" class="letter" style="animation-delay: 1.2s;">M</text>
-    <text x="270" y="50" class="letter" style="animation-delay: 1.4s;">E</text>
+    <text x="50" y="50" class="letter" style="animation-delay: 0.2s;">N</text>
+    <text x="100" y="50" class="letter" style="animation-delay: 0.4s;">O</text>
+    <text x="150" y="50" class="letter" style="animation-delay: 0.6s;">M</text>
+    <text x="200" y="50" class="letter" style="animation-delay: 0.8s;">E</text>
+    <text x="250" y="50" class="letter" style="animation-delay: 1s;">:</text>
+    <text x="300" y="50" class="letter" style="animation-delay: 1.2s;">V</text>
+    <text x="350" y="50" class="letter" style="animation-delay: 1.4s;">I</text>
+    <text x="400" y="50" class="letter" style="animation-delay: 1.6s;">T</text>
+    <text x="450" y="50" class="letter" style="animation-delay: 1.8s;">O</text>
+    <text x="500" y="50" class="letter" style="animation-delay: 2s;">R</text>
 </svg>
 
+---
 
-## 🚀 Tecnologias
+## 📌 Status  
+🔥 **Não empregado**  
 
-- [✔️] Tecnologia 1  
-- [✔️] Tecnologia 2  
-- [✔️] Tecnologia 3  
-
-## 📦 Instalação
-
-# Naruto Animation! 🍥🔥
-
-![Naruto Running](https://media.giphy.com/media/xT9IgEYX2fsWQuDpFC/giphy.gif)
+```diff
+- Sempre buscando novas oportunidades! 🚀
