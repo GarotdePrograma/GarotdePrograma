@@ -1,7 +1,7 @@
-# Meu perfil 🖥️ 🔥 
+# printf("Hello World"); 
 
-## 🎭 Sobre mim  
-
+## 🎭 Sobre mim  <br><br>
+💻 Estudante de Desenvolvimento de Sistemas 👨‍💻  <br><br>
 💡 Aprendendo sobre:<br>
 ✔️ Banco de Dados (SQL)<br>
 ✔️ Back-end (C, C#)<br>
@@ -17,4 +17,5 @@
 </div>
 <svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
     <style>
-     ![Anime](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
+
+  
