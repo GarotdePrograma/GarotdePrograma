@@ -2,11 +2,12 @@
 
 ## 🎭 Sobre mim  
 
-💡 Aprendendo sobre:
-✔️ Banco de Dados (SQL)
-✔️ Back-end (C, C#)
-✔️ Um pouco de Front-end (HTML,CSS)
-## 📌 Status  
+💡 Aprendendo sobre:<br>
+✔️ Banco de Dados (SQL)<br>
+✔️ Back-end (C, C#)<br>
+✔️ Um pouco de Front-end (HTML,CSS)<br><br>
+
+📌 Status  
 Desempregado<br>
 Estudante<br>
 Menos que humano
