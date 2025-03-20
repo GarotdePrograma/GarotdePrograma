@@ -17,5 +17,4 @@
 </div>
 <svg width="600" height="150" viewBox="0 0 600 150" xmlns="http://www.w3.org/2000/svg">
     <style>
-     
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/animacao.svg" width="500px">
+     ![Anime](https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif)
