@@ -7,9 +7,9 @@
 ✔️ Back-end (C, C#)<br>
 ✔️ Um pouco de Front-end (HTML,CSS)<br><br>
   
- 💩 Desempregado<br>
- 👍 Estudante do Senai<br>
- 🍥 Menos que humano
+ 
+
+ 🍥 Estudante do Senai<br>
 
 
 <div align="center">
